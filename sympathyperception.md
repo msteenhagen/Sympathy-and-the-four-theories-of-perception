@@ -15,6 +15,12 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 # The four theories of perception
 
+## Mediate and immediate perception
+
+## Intentional and relational apprehension
+
+## The four theories of perception 
+
 # Understanding moral sympathy
 
 # Conclusions
