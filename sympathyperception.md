@@ -17,6 +17,9 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 ## Sympathy and other minds
 
+
+Perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. As such, to perceive something is for it to figure in experience. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
+
 # Understanding perception
 
 ## Mediate and immediate perception
@@ -47,7 +50,9 @@ Mediate | C:Simulation 1 | D: Simulation 2
 
 Before concluding, it is insightful to compare the two schemas we have talked about so far with a third. Let's briefly turn to memory. 
 
-Episodic memory is often thought of as a capacity for being affected by past events. This is often maintained even by people who think of memory as essentially _reconstructive_. There is a long dispute in the philosophy of memory over the question whether remembering a past event depends on the actual occurrence of that event or not. In a flash I may episodically recall an occasion on which I was bullied in high school. Does my having that memory episode right now depend on the remembered occasion's actually having taken place? 'Dependent' theories of memory claim it does, 'independent' theories deny that. 
+Episodic memory is often thought of as a capacity for being affected by past events. It can be understood as a form of experiential awareness, just as perception and moral sympathy can. 
+
+This is often maintained even by people who think of memory as essentially _reconstructive_. There is a long dispute in the philosophy of memory over the question whether remembering a past event depends on the actual occurrence of that event or not. In a flash I may episodically recall an occasion on which I was bullied in high school. Does my having that memory episode right now depend on the remembered occasion's actually having taken place? 'Dependent' theories of memory claim it does, 'independent' theories deny that. 
 
 As a further question, we may ask whether the episode I undergo now, when I remember the bullying, is the event we claim to remember, or some other event? If it's another event, then again it seems that we're dealing with some kind of go-between or proxy for the event that's the 'target' of the memory. And so again we can see a split between 'mediate' and 'immediate' theories of memory. 
 
