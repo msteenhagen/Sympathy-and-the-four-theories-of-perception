@@ -27,4 +27,8 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 ## Dependent and independent sympathetic awareness
 
+## The four theories of moral sympathy
+
+# Perception, moral sympathy, and episodic memory
+
 # Conclusions
