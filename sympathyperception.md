@@ -36,7 +36,7 @@ Mediate | C:? | D: Sense-datum
 
 ## Dependent and independent sympathetic awareness
 
-## The four theories of moral sympathy
+## The four theories of moral sympathyåDr
 
 SYMPATHY | Dependent | Independent
 --- | --- | ---
@@ -53,9 +53,9 @@ As a further question, we may ask whether the episode I undergo now, when I reme
 
 MEMORY | Dependent | Independent
 --- | --- | ---
-Immediate | A: ? | B: ?
-Mediate | C: ? | D: ?
+Immediate | A: Time-travelling | B: Reconstruction
+Mediate | C: Re-enacting | D: Mental modelling
 
-What is most interesting to observe here is that there is at least a prima facie plausibility to the Independent Mediator views in a way not found in perception. In remembering, we recreate an event that is not actually going on, but merely imagined, and this imagined event stands in and aims to track or represent an earlier event, the event we claim to remember. These views are called naive indirect realists about memory, and face the question: what distinguishes memory from imagination [cf. Lawlor's chapter in @mclaughlin2009aa, p. 663]. On the other hand, the idea that an actual event is experienced, which mediates for a past event (call it the re-enactment view), is puzzling as an account of episodic memory. 
+What is most interesting to observe here is that there is at least a prima facie plausibility to the Independent Mediator views in a way not found in perception. In remembering, we piece together a model of an event that is not actually going on, but merely imagined, and this imagined event stands in and aims to track or represent an earlier event, the event we claim to remember. These views are called naive indirect realists about memory, and face the question: what distinguishes memory from imagination [cf. Lawlor's chapter in @mclaughlin2009aa, p. 663]. On the other hand, the idea that an actual event is experienced, which mediates for a past event (call it the re-enactment view), is puzzling as an account of episodic memory. 
 
 # Conclusions
