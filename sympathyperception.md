@@ -43,6 +43,8 @@ First I will say briefly how I want to think of the difference between mediate a
 
 ## Dependent and independent perceptual awareness
 
+Second, the distinction between awareness that's dependent on its objects, and awareness that isn't. Also this matter is controversial. There are authors who deny that awareness can ever be independent of its object. But others seem to be more permissive (or sloppy, depending how you look at it). This is the key question, I think. Does our awareness depend for its occurrence on the existence of its immediate objects? Think of a case where someone is hallucinating. They maintain that they see a figure in the corner of a room where there is just no such figure. Is this a possible perception? Some say it is not, others say it is. 
+
 ## The four theories of perception 
 
 VISION | Independent | Dependent
@@ -50,9 +52,11 @@ VISION | Independent | Dependent
 Immediate | A: Representationalist | B: Naïve realist 
 Mediate | C:? | D: Sense-datum
 
-(Arguably, one important line Charles Travis has defended is that in effect the position commonly called 'Representationalism' is a version of C. Travis claims C is incoherent as a theory of perception, and also seems to suggest that A is incoherent. The discussion here seems to regurgitate elements of the dispute between Malebranche and Arnauld.)
+(Arguably, one important line Charles Travis has defended is that, in effect, the position commonly called 'Representationalism' is a version of C. Travis claims C is incoherent as a theory of perception, and also seems to suggest that A is incoherent [cf. @travis2004aa; @travis2013aa, Ch. 1]. The discussion here seems to me to regurgitate elements of the dispute between Malebranche and Arnauld.)
 
 # Understanding moral sympathy
+
+What I want to take seriously here is that sympathy equally can be thought of as a kind of awareness. Plausibly, at least in central cases, we can think of it as an awareness of the feeling of someone else. But how does this work? 
 
 ## Mediate and immediate sympathy
 
@@ -63,7 +67,7 @@ Mediate | C:? | D: Sense-datum
 SYMPATHY | Independent | Dependent
 --- | --- | ---
 Immediate | A: ? | B: ?
-Mediate | C:Simulation 1 | D: Simulation 2
+Mediate | C: ? | D: ?
 
 # Perception, moral sympathy, and episodic memory
 
