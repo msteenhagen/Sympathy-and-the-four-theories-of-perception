@@ -10,3 +10,11 @@ abstract: Sympathy is often understood as the capacity to 'feel with' others. In
 ...
 
 Sympathy is often understood as the capacity to 'feel with' others. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. My aim is to bring out how it is all to easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is commonly ruled out _ab initio_.
+
+# Moral sympathy
+
+# The four theories of perception
+
+# Understanding moral sympathy
+
+# Conclusions
