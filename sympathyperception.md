@@ -17,10 +17,14 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 ## Mediate and immediate perception
 
-## Dependent and independent apprehension
+## Dependent and independent perceptual awareness
 
 ## The four theories of perception 
 
 # Understanding moral sympathy
+
+## Mediate and immediate sympathy
+
+## Dependent and independent sympathetic awareness
 
 # Conclusions
