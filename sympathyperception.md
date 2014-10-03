@@ -15,6 +15,18 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 ## History of sympathy
 
+The concept of sympathy, at least in philosophy and science, came first into prominence in Stoic writings. It was not then primarily a psychological notion – at least not one about individual psychology. It entered into cosmological and physical theories to characterise and explain the phenomenon of action at a distance. One of the key examples, discussed throughout ancient, medieval and early-modern theories, is that of one musical instrument’s causing reverberations in another. If I pluck a string of this lute, the strings of the lute standing in the corner may start vibrating as well. How can that be, given that the instruments are not in contact with one another? This was explained by the fact that objects are, or at least can be, in sympathy with one another. 
+
+More sweepingly, the Stoics seem to maintain that the universe or cosmos as such is ‘sympathetic’ in that any existing thing potentially has immediate influence on every thing else. 
+
+Some authors, such as Plotinus, Ockham and, arguably, Aristotle, thought that also visual perception relies on the principles of action at a distance. A distant object is able to affect the character of our experience. The coloured surface of a piece of fruit before my eyes is not in actual contact with any of my perceptual organs, and yet it is able to determine what my experience is like. Plotinus, interestingly, explicitly relied on the concept of sympathy to illuminate such perceptual situations. The distal coloured objects of vision are sympathetic to us in an act of perception, which explains that they are able to determine our experience without being in physical contact. 
+
+Now, in modern philosophy and science, the very idea of action at a distance met with fierce hostility. The theories of harmonics and perception respectively where reformulated in terms of tidy ‘causal chains’ consisting of vibrating air in a medium, or light rays affecting the receptors of the optic nerve to cause in us ‘impressions’ of the objects we perceive. Whereas in the time of Francis Bacon the relation between the two lutes was still considered magical, it can be seen that more reductive physical theories emerge to explain their interaction. Similarly, theories of perception were rephrased in terms of the ‘proximal’ causes that are in contact with our sense organs.
+
+However, we can see that in Hume, who is clearly one of the central figures in the tradition of sympathy, the problem of action at a distance re-emerges. 
+
+Given Hume's theory of impressions, the problem of action at a distance re-emerges in the context of a discussion of our knowledge of other minds. If impressions are subjective effects that are only able to stand in causal relations with other or further impressions within the same mind, then how can I know on the basis of my impressions about the impressions of another person? 
+
 ## Sympathy and other minds
 
 To sympathise with someone, is to be able to feel your way into their mental state. It is often taken to be a crucial element in our mind-reading capacity, and arguably plays a role in our capacity for co-cognition. In other words, often, an answer to how it is that person A knows what person B is going through (if they know this) is found in the fact that person A is able to sympathise with B's feelings. 
