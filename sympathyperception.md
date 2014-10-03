@@ -13,6 +13,10 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 # Moral sympathy
 
+## History of sympathy
+
+## Sympathy and other minds
+
 # Understanding perception
 
 ## Mediate and immediate perception
