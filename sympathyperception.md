@@ -17,21 +17,28 @@ Sympathy is often understood as the capacity to 'feel with' others. In this pape
 
 ## Sympathy and other minds
 
+To sympathise with someone, is to be able to feel your way into their mental state. It is often taken to be a crucial element in our mind-reading capacity, and arguably plays a role in our capacity for co-cognition. In other words, often, an answer to how it is that person A knows what person B is going through (if they know this) is found in the fact that person A is able to sympathise with B's feelings. 
 
 Perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. As such, to perceive something is for it to figure in experience. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
 
 # Understanding perception
 
+In the philosophy of perception, there are several camps, which can be clearly delineated. Taking visual perception of an ordinary object as a test-case, we can ask: When we say that we see a pig, then is a pig the immediate object of awareness? And, is seeing something dependent on the actual presence of the immediate object of awareness? Let me explain how I understand the vexed oppositions I'm using here to carve up logical space: 'immediate/mediate' and 'dependent/independent'
+
 ## Mediate and immediate perception
+
+First I will say briefly how I want to think of the difference between mediate and immediate perception. I take a perception to be mediate to the extent it is not immediate. The issue is controversial. My main interest here is to tell apart theories that think that in perceiving something our awareness is somehow 'direct', that there is no mediating object involved. A mediator in perception is an object the perception of which 'counts' as the perception of some other object. Wherever this occurs, perception gets split into two aspects: the immediate awareness of a mediator, and the mediate awareness of whatever more we may be said to perceive. The immediate can occur without any mediate aspect, but the converse does not hold. (Mediators can be either mind-dependent or not.)
 
 ## Dependent and independent perceptual awareness
 
 ## The four theories of perception 
 
-VISION | Dependent | Independent
+VISION | Independent | Dependent
 --- | --- | ---
 Immediate | A: Representationalist | B: Naïve realist 
 Mediate | C:? | D: Sense-datum
+
+(Arguably, one important line Charles Travis has defended is that in effect the position commonly called 'Representationalism' is a version of C. Travis claims C is incoherent as a theory of perception, and also seems to suggest that A is incoherent. The discussion here seems to regurgitate elements of the dispute between Malebranche and Arnauld.)
 
 # Understanding moral sympathy
 
@@ -41,7 +48,7 @@ Mediate | C:? | D: Sense-datum
 
 ## The four theories of moral sympathyåDr
 
-SYMPATHY | Dependent | Independent
+SYMPATHY | Independent | Dependent
 --- | --- | ---
 Immediate | A: ? | B: ?
 Mediate | C:Simulation 1 | D: Simulation 2
@@ -56,7 +63,7 @@ This is often maintained even by people who think of memory as essentially _reco
 
 As a further question, we may ask whether the episode I undergo now, when I remember the bullying, is the event we claim to remember, or some other event? If it's another event, then again it seems that we're dealing with some kind of go-between or proxy for the event that's the 'target' of the memory. And so again we can see a split between 'mediate' and 'immediate' theories of memory. 
 
-MEMORY | Dependent | Independent
+MEMORY | Independent | Dependent
 --- | --- | ---
 Immediate | A: Time-travelling | B: Reconstruction
 Mediate | C: Re-enacting | D: Mental modelling
