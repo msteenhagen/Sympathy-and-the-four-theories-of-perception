@@ -25,7 +25,7 @@ Now, in modern philosophy and science, the very idea of action at a distance met
 
 However, we can see that in Hume, who is clearly one of the central figures in the tradition of sympathy, the problem of action at a distance re-emerges. 
 
-Given Hume's theory of impressions, the problem of action at a distance re-emerges in the context of a discussion of our knowledge of other minds. If impressions are subjective effects that are only able to stand in causal relations with other or further impressions within the same mind, then how can I know on the basis of my impressions about the impressions of another person? 
+Given Hume's theory of impressions, the problem of action at a distance re-emerges in the context of a discussion of our knowledge of other minds. If impressions are subjective effects that are only able to stand in causal relations with other or further impressions within the same mind, then how can I know on the basis of my impressions about the impressions of another person? This is how sympathy as we currently tend to think of it gets introduced (not uniquely by Hume, but around this time and for these reasons). I will refer to it in what follows as our moral sympathetic capacity, or 'moral sympathy' in short.
 
 ## Sympathy and other minds
 
