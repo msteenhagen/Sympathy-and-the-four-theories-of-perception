@@ -58,7 +58,6 @@ Mediate | C:? | D: Sense-datum
 
 What I want to take seriously here is that sympathy equally can be thought of as a kind of awareness. Plausibly, at least in central cases, we can think of it as an awareness of the feeling of someone else. But how does this work? 
 
-
 Let us similarly start with a test case. Zeynep is currently sympathising with Boaz, and so we can say that, in some sense, she is aware of Boaz' anxiety, and this is an awareness by experience. (I take anxiety because it is a prevalent, but not too complex state that at least arguably has a distinctive pattern of feelings associated with it.) 
 
 The first thing we can ask is: Is Boaz' anxiety the immediate object of Zeynep's awareness? A negative answer is what underpins most simulation approaches to sympathy. When we sympathise with someone, we simulate their mental state by 'running offline' some of our own mental processes. The result is a feeling of ours that figures as an encapsulated, offline element of our overall mental state. If the answer is yes, on the other hand, then we may say that the traditional way of thinking about sympathy as a capacity to 'feel what others feel' seems very apt.  
@@ -69,28 +68,33 @@ Now, to our second question: Is Zeynep's sympathetic state dependent on the actu
 
 ## Dependent and independent sympathetic awareness
 
-## The four theories of moral sympathyåDr
+## The four theories of moral sympathy
 
 SYMPATHY | Independent | Dependent
 --- | --- | ---
 Immediate | A: ? | B: ?
 Mediate | C: ? | D: ?
 
+## Sympathy as projective identification?
+
 # Perception, moral sympathy, and episodic memory
 
 Before concluding, it is insightful to compare the two schemas we have talked about so far with a third. Let's briefly turn to memory. 
 
+## Episodic memory
 Episodic memory is often thought of as a capacity for being affected by past events. It can be understood as a form of experiential awareness, just as perception and moral sympathy can. 
 
 This is often maintained even by people who think of memory as essentially _reconstructive_. There is a long dispute in the philosophy of memory over the question whether remembering a past event depends on the actual occurrence of that event or not. In a flash I may episodically recall an occasion on which I was bullied in high school. Does my having that memory episode right now depend on the remembered occasion's actually having taken place? 'Dependent' theories of memory claim it does, 'independent' theories deny that. 
 
 As a further question, we may ask whether the episode I undergo now, when I remember the bullying, is the event we claim to remember, or some other event? If it's another event, then again it seems that we're dealing with some kind of go-between or proxy for the event that's the 'target' of the memory. And so again we can see a split between 'mediate' and 'immediate' theories of memory. 
 
+## The four theories of memory
 MEMORY | Independent | Dependent
 --- | --- | ---
 Immediate | A: Time-travelling | B: Reconstruction
 Mediate | C: Re-enacting | D: Mental modelling
 
+## Comparison with sympathy and perception
 What is most interesting to observe here is that there is at least a prima facie plausibility to the Independent Mediator views in a way not found in perception. In remembering, we piece together a model of an event that is not actually going on, but merely imagined, and this imagined event stands in and aims to track or represent an earlier event, the event we claim to remember. These views are called naive indirect realists about memory, and face the question: what distinguishes memory from imagination [cf. Lawlor's chapter in @mclaughlin2009aa, p. 663]. On the other hand, the idea that an actual event is experienced, which mediates for a past event (call it the re-enactment view), is puzzling as an account of episodic memory. 
 
 # Conclusions
