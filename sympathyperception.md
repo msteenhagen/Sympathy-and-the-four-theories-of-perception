@@ -75,7 +75,27 @@ SYMPATHY | Independent | Dependent
 Immediate | A: ? | B: ?
 Mediate | C: ? | D: ?
 
-## Sympathy as projective identification?
+This gives us four ways of thinking about sympathy. 
+
+## Reflection
+
+I now want to reflect on this for a few minutes. 
+
+### What is the standard view? 
+
+It seems to me that most philosophers nowadays tend towards the C option. When we sympathise, we imagine or represent to ourselves a feeling that is supposed to track or mirror the feeling of the other person. Such imagining can be understood as 'placing yourself in the other's shoes', or as a more basic 'mental simulation' by means of mirror neurons or what have you.
+
+The B view does not seem attractive because it is only in pathological cases that we mistake the feeling we're aware of for something we actually feel. (Consider, the responses to one's own anxiety an the imagined anxiety of another will be very different: flight or aggression in the former case, concern or care in the latter.)
+
+### What is the naïve view?   
+
+What is the naïve view? I want to suggest that this is the view that we are immediately aware of the other person's feeling. I think this awareness is naïvely understood as a dependent form. So I want to suggest that, just as in perception, we may assume a naïve realism about sympathy unless we have compelling arguments to abandon that position. Such arguments may turn on the possibility of error or illusion, or they may turn on further metaphysical commitments that imply that we cannot become aware in this way of the mental states of others. 
+
+### Sympathy as projective identification?
+
+In previous discussions Louise Braddock has explored the way sympathy and projective identification relate. Projective identification is a complex phenomenon, involving the projection of a mental state into another person and the subsequent identification with that other person. This allows people to respond to and 'deal with' their own unwanted mental states in a detached and third or second-personal way. It's to that extent deceptive. 
+
+Perhaps we only need to consider projection here. If sympathy involves projection, then which way does this run? Plausibly, it has to be a projection from sympathiser to sufferer, for it often happens that we sympathise with people who are not aware of being observed, and so arguably are in no position to project. (Perhaps we can introduce the activity of broadcasting for this circumstances.)
 
 # Perception, moral sympathy, and episodic memory
 
