@@ -60,13 +60,13 @@ What I want to take seriously here is that sympathy equally can be thought of as
 
 Let us similarly start with a test case. Zeynep is currently sympathising with Boaz, and so we can say that, in some sense, she is aware of Boaz' anxiety, and this is an awareness by experience. (I take anxiety because it is a prevalent, but not too complex state that at least arguably has a distinctive pattern of feelings associated with it.) 
 
-The first thing we can ask is: Is Boaz' anxiety the immediate object of Zeynep's awareness? A negative answer is what underpins most simulation approaches to sympathy. When we sympathise with someone, we simulate their mental state by 'running offline' some of our own mental processes. The result is a feeling of ours that figures as an encapsulated, offline element of our overall mental state. If the answer is yes, on the other hand, then we may say that the traditional way of thinking about sympathy as a capacity to 'feel what others feel' seems very apt.  
-
-Now, to our second question: Is Zeynep's sympathetic state dependent on the actual existence of its immediate object? We should keep in mind that, as we just saw, there will be two opposed views on what these immediate objects are. They are either the 'target' feelings of the other person, or they are something else. Can we experience a feeling of anxiety when there is none? If we think that sympathetic awareness is intentional, then this must be possible. If, on the other hand, we think of it as a dependent awareness, then it cannot be so. 
-
 ## Mediate and immediate sympathy
 
+The first thing we can ask is: Is Boaz' anxiety the immediate object of Zeynep's awareness? A negative answer is what underpins most simulation approaches to sympathy. When we sympathise with someone, we simulate their mental state by 'running offline' some of our own mental processes. The result is a feeling of ours that figures as an encapsulated, offline element of our overall mental state. If the answer is yes, on the other hand, then we may say that the traditional way of thinking about sympathy as a capacity to 'feel what others feel' seems very apt.  
+
 ## Dependent and independent sympathetic awareness
+
+Now, to our second question: Is Zeynep's sympathetic state dependent on the actual existence of its immediate object? We should keep in mind that, as we just saw, there will be two opposed views on what these immediate objects are. They are either the 'target' feelings of the other person, or they are something else. Can we experience a feeling of anxiety when there is none? If we think that sympathetic awareness is intentional, then this must be possible. If, on the other hand, we think of it as a dependent awareness, then it cannot be so. 
 
 ## The four theories of moral sympathy
 
