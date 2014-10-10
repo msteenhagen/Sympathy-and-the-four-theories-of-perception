@@ -9,7 +9,9 @@ date: October 2014
 abstract: Sympathy is often understood as the capacity to 'feel with' others. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. My aim is to bring out how it is all to easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is commonly ruled out ab initio.
 ...
 
-Sympathy is often understood as the capacity to 'feel with' others. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. My aim is to bring out how it is all to easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is commonly ruled out _ab initio_.
+Sympathy is often understood as the capacity to 'tap into someone else's feelings', to 'feel with them', or to 'feel what they feel'. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. The serious philosophical issue about sympathy I am interested in is that of understanding the basic elements and relations involved in an act of sympathising. And the fundamental dispute in the philosophy of perception I'll exploit is precisely about such basic elements and relations, but now how they are involved in perceiving the world. 
+
+Comparing these two discussions can bring out how it is all to easy to overlook viable options in the philosophy of sympathy. In particular, I want to flag that a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is frequently not even considered an available view.
 
 # Moral sympathy
 
@@ -73,9 +75,21 @@ Now, to our second question: Is Zeynep's sympathetic state dependent on the actu
 SYMPATHY | Independent | Dependent
 --- | --- | ---
 Immediate | A: ? | B: ?
-Mediate | C: ? | D: ?
+Mediate | C: Simulation | D: Contagion
 
-This gives us four ways of thinking about sympathy. 
+This gives us four ways of thinking about sympathy.
+
+### Representationalism (A)
+
+### Naïve realism (B)
+
+### Off-line simulation (C)
+
+Perhaps this is what Amy Coplan defends. She thinks that in  sympathising "the observer replicates or reconstructs the target's experiences", which points to the role of these replicated passions as mediators or proxies. And she thinks that by doing this we represent a target's states that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. 
+
+### Emotional contagion (D)
+
+The fourth possibility is often thought of as an emotional contagion model of sympathy. We come to feel something ourselves and if we manage to use this feeling for sympathising, we come to use it as a proxy for what someone else feels. We're not aware of the other person's feelings, just of our own feelings that are roughly of the same kind. But the awareness depends on the actuality of what we feel. We actually suffer in sympathising with someone else who suffers. 
 
 ## Reflection
 
