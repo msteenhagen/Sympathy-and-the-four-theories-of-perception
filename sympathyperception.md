@@ -91,7 +91,7 @@ This gives us four ways of thinking about sympathy.
 
 ### Off-line simulation (C)
 
-Perhaps this is what Amy Coplan defends. She thinks that in  sympathising "the observer replicates or reconstructs the target's experiences", which points to the role of these replicated passions as mediators or proxies. And she thinks that by doing this we represent a target's states that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. 
+This seems to be what Amy Coplan defends. She thinks that in  sympathising "the observer replicates or reconstructs the target's experiences", which points to the role of these replicated passions as mediators or proxies. And she thinks that by doing this we represent a target's states that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. 
 
 ### Emotional contagion (D)
 
@@ -109,7 +109,9 @@ The B view does not seem attractive because it is only in pathological cases tha
 
 ### What is the naïve view?   
 
-What is the naïve view? I want to suggest that this is the view that we are immediately aware of the other person's feeling. I think this awareness is naïvely understood as a dependent form. So I want to suggest that, just as in perception, we may assume a naïve realism about sympathy unless we have compelling arguments to abandon that position. Such arguments may turn on the possibility of error or illusion, or they may turn on further metaphysical commitments that imply that we cannot become aware in this way of the mental states of others. 
+What is the naïve view? I want to suggest that this is the view that we are immediately aware of the other person's feeling. I think this awareness is naïvely understood as a dependent form. So I want to suggest that, just as in perception, we may assume a naïve realism about sympathy unless we have compelling arguments to abandon that position. Such arguments may turn on the possibility of error or illusion, or they may turn on further metaphysical commitments that imply that we cannot become aware in this way of the mental states of others.
+
+Concerns about phenomenology come in here. In perception, there arguably is a sense of presence. Is there a similar sense in the case of sympathy?
 
 ### Sympathy as projective identification?
 
