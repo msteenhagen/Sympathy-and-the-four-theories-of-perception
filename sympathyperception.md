@@ -9,34 +9,33 @@ date: October 2014
 abstract: Sympathy is often understood as the capacity to 'feel with' others. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. My aim is to bring out how it is all to easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is commonly ruled out ab initio.
 ...
 
+# Basic elements and relations
 Sympathy is often understood as the capacity to 'tap into someone else's feelings', to 'feel with them', or to 'feel what they feel'. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. The serious philosophical issue about sympathy I am interested in is that of understanding the basic elements and relations involved in an act of sympathising. And the fundamental dispute in the philosophy of perception I'll exploit is precisely about such basic elements and relations, but now how they are involved in perceiving the world. 
 
 Comparing these two discussions can bring out how it is all to easy to overlook viable options in the philosophy of sympathy. In particular, I want to flag that a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is frequently not even considered an available view.
 
 # Moral sympathy
 
+## A point on terminology
+
+What I call 'sympathy' is nowadays often called empathy. I'm not concerned with terminology. With sympathy I mean not a specific kind of feeling, but a specific psychological capacity humans and other animals seem to have. It is a capacity to become aware of or in some ways gain access through experience to the mental states of others. 
+
 ## History of sympathy
 
-The concept of sympathy, at least in philosophy and science, came first into prominence in Stoic writings. It was not then primarily a psychological notion – at least not one about individual psychology. It entered into cosmological and physical theories to characterise and explain the phenomenon of action at a distance. One of the key examples, discussed throughout ancient, medieval and early-modern theories, is that of one musical instrument’s causing reverberations in another. If I pluck a string of this lute, the strings of the lute standing in the corner may start vibrating as well. How can that be, given that the instruments are not in contact with one another? This was explained by the fact that objects are, or at least can be, in sympathy with one another. 
+The concept of sympathy, at least in philosophy and science, came first into prominence in Stoic writings. It was not then primarily a psychological notion, but a concept in physics or cosmology. It was recruited to explain cases of action at a distance. Think of the way the moon causes the tides in our oceans, without there being any contact between the lunar surface and the seas. The Stoics were (rightly) puzzled by such phenomena, and inferred that they show that the cosmos is a ‘sympathetic’ unity, in that any given part has a potential to affect without intermediaries every other part. 
 
-More sweepingly, the Stoics seem to maintain that the universe or cosmos as such is ‘sympathetic’ in that any existing thing potentially has immediate influence on every thing else. 
+Now, to a modern ear, used as it is to chilly mechanism, the very idea of action at a distance is bound to sound funny. Modern cosmology and physics likes explanations to trace series of proximal causes, consisting of vibrating air, molecular chain-reactions, propagating light waves, etc.
 
-Some authors, such as Plotinus, Ockham and, arguably, Aristotle, thought that also visual perception relies on the principles of action at a distance. A distant object is able to affect the character of our experience. The coloured surface of a piece of fruit before my eyes is not in actual contact with any of my perceptual organs, and yet it is able to determine what my experience is like. Plotinus, interestingly, explicitly relied on the concept of sympathy to illuminate such perceptual situations. The distal coloured objects of vision are sympathetic to us in an act of perception, which explains that they are able to determine our experience without being in physical contact. 
+But even today philosophers still have use for sympathy. Although sympathy was discredited as an explanatory concept in the natural sciences, it lived on as an important element in the Science of Man, as we find it developed by English and Scottish enlightenment authors. For them the problem of action at a distance re-emerges as soon as we confront the fact that, in some way, we have access to and even seem to be affected by the contents of another individual's mind. How can I know on the basis of my impressions or ideas about the impressions or ideas this other person has? This is how sympathy as we currently tend to think of it gets introduced, and this is how I will understand the concept in what follows.
 
-Now, in modern philosophy and science, the very idea of action at a distance met with fierce hostility. The theories of harmonics and perception respectively where reformulated in terms of tidy ‘causal chains’ consisting of vibrating air in a medium, or light rays affecting the receptors of the optic nerve to cause in us ‘impressions’ of the objects we perceive. Whereas in the time of Francis Bacon the relation between the two lutes was still considered magical, it can be seen that more reductive physical theories emerge to explain their interaction. Similarly, theories of perception were rephrased in terms of the ‘proximal’ causes that are in contact with our sense organs.
+# Sympathy and perception as forms of awareness
 
-However, we can see that in Hume, who is clearly one of the central figures in the tradition of sympathy, the problem of action at a distance re-emerges. 
+## Sympathy as awareness
+To sympathise with someone, is to feel your way into their mental state. It is often taken to be a crucial element in mind-reading, and arguably plays a role in our capacity for concerted agency or thought. So, at least often, an answer to how it is that Deborah knows what Brad is going through (if she know this) is found in the fact that person Deborah is able to sympathise with Brad's feelings.
 
-Given Hume's theory of impressions, the problem of action at a distance re-emerges in the context of a discussion of our knowledge of other minds. If impressions are subjective effects that are only able to stand in causal relations with other or further impressions within the same mind, then how can I know on the basis of my impressions about the impressions of another person? This is how sympathy as we currently tend to think of it gets introduced (not uniquely by Hume, but around this time and for these reasons). I will refer to it in what follows as our moral sympathetic capacity, or 'moral sympathy' in short.
+Sense perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. Perceiving a suspension bridge involves such a bridge making its way into your experience of your surroundings. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
 
-## Sympathy and other minds
-
-To sympathise with someone, is to be able to feel your way into their mental state. It is often taken to be a crucial element in our mind-reading capacity, and arguably plays a role in our capacity for co-cognition. In other words, often, an answer to how it is that person A knows what person B is going through (if they know this) is found in the fact that person A is able to sympathise with B's feelings. 
-
-Perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. As such, to perceive something is for it to figure in experience. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
-
-# Understanding perception
-
+## The philosophy of sense perception
 In the philosophy of perception, there are several camps, which can be clearly delineated. Taking visual perception of an ordinary object as a test-case, we can ask: When we say that we see a pig, then is a pig the immediate object of awareness? And, is seeing something dependent on the actual presence of the immediate object of awareness? Let me explain how I understand the vexed oppositions I'm using here to carve up logical space: 'immediate/mediate' and 'dependent/independent'
 
 ## Mediate and immediate perception
