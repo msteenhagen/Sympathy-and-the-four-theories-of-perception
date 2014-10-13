@@ -31,17 +31,17 @@ Now, to modern ears---ears used to cool mechanism---the very idea of action at a
 But even today philosophy has room for the concept of sympathy. Although it's discredited as an explanatory concept in the natural sciences, sympathy lives on in the 'Science of Man', as English and Scottish enlightenment authors became interested in it. For these authors the problem of action at a distance re-emerged. In some way, we have access to and even seem to be affected by the contents of another individual's mind. How can I know on the basis of my sensations, impressions or ideas about the sensations, impressions or ideas this other person has? Sympathy gets introduced to explain this, and so gets moulded into the psychological shape we're familiar with. This is how I will understand the concept in what follows.
 
 # Sympathy & perception are forms of awareness
-To sympathise with someone, is to feel your way into their mental state. It is often taken to be a crucial element in mind-reading, and arguably plays a role in our capacity for concerted agency or thought. So, at least often, an answer to how it is that Zayneb knows what Hisham is going through (if she know this) is found in the fact that Zayneb is able to sympathise with Hisham's feelings.
+To sympathise with someone is to feel your way into their mental state. It is often taken to be a crucial element in mind-reading, and arguably plays a role in our capacity for concerted agency or thought. At least often, an answer to how it is that Zayneb knows what Hisham is going through (if she know this) is found in the fact that Zayneb is able to sympathise with Hisham's feelings. A sympathetic response often is a source of knowledge about others.
 
-Sense perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. Perceiving a suspension bridge involves such a bridge making its way into your experience of your surroundings. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
+Sense perception, which is a source of knowledge too, can be thought of as a form of awareness of our surroundings. This awareness is _experiential_, as we could put it. Perceiving a suspension bridge involves that bridge making its way into your experience of your surroundings. I think that, similarly, sympathy can be thought of as a kind of experiential awareness. It is commonly contrasted with a mere inferential or theoretical understanding of other people's states. Sympathy can be a source of knowledge about others because of the specific _experience_ a sympathetic response involves.
 
 ## Views about perception can be deliniated
 
-There are several ways we can understand what sense perception involves. This makes it that in the philosophy of perception we find a clear delineation of views. Let's focus on vision. Take that suspension bridge again. When you see that bridge, what elements and relations are involved in such an act? There are two important questions we can ask here. 
+What is it to perceive something? There are several ways we can understand perception, and in the philosophy of perception we find a clear delineation of views. Let's focus on vision. Take that suspension bridge again. When you see that bridge, what elements and relations are involved in such an act? There are two important questions we may ask. 
 
-When you see that bridge, is the immediate object of your visual awareness the bridge, or is it something else, such as an image of the bridge, or the bridge's outer surface, or a visual sensation caused in you? This discussion has a long history.
+When you see that bridge, is the immediate object of your visual awareness the bridge, or is it something else, such as an image of the bridge, or the bridge's outer surface, or a bridge-like visual sensation caused in you? Disputes over this question have a long, infamous history.
 
-Second, we may ask whether the immediate awareness we have, whether it is of the bridge or of something else, depends for its occurrence on the actuality or existence of what we're aware of. Could you have this awareness if the thing you become aware of did not exist? Especially in the last decades, philosophers have debated what we should say about this. 
+Second, we may ask whether the immediate awareness we have, whether it is of the bridge or of something else, depends for its occurrence on the actuality or existence of what we're aware of. Could you have this awareness if the thing you become aware of did not exist? Can we think of it as a relation or form of contact with reality? Especially in the last decades, philosophers have debated what we should say about this, and this issue is very much alive today. 
 
 Both these questions are besieged by controversy, but I think that at least the basic distinctions here are straightforward. Let me say a little bit more about each of them.
     
@@ -65,34 +65,34 @@ Given these distinctions, we end up with four different ways of thinking about w
 
 VISION | Dependent | Independent
 --- | --- | ---
-Immediate | I. Naïve realist | II. Representationalist
+Immediate | I. Naïve realist | II. Intentionalism
 Mediate | III. Sense-datum | IV. ?
 
-The __first__ view, naïve realism is arguably the view of common sense. It's the view that we are directly aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing out there. In such a case we're under the spell of hallucination. The __second__ position is commonly known as 'representationalism' is currently most popular among philosophers, in part under the influence of Descartes. It agrees that we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object is present or exists. The __third__ view is best known through its defence by sense-datum theories, popular until the 1950s. It maintains that in perception we're aware of a mediator or proxy that relays information about the objects in our environment we report to see.
+The __first__ view, naïve realism is arguably the view of common sense. It's the view that we are directly aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing out there. In such a case we're under the spell of hallucination. The __second__ position is frequently called 'intentionalism', and is currently most popular among philosophers. The intentionalist agrees that we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object is present or exists. The __third__ view is best known through its defence by sense-datum theories, popular until the 1950s. Contrary to naïve realism and intentionalism, it maintains that in perception we're aware of a mediator or proxy that relays information about the objects in our environment we report to see.
 
 The __fourth__ view is somewhat puzzling. This view agrees with sense-datum theory that perception consists first and foremost of the awareness of a mediator, but it claims that this awareness may occur regardless of whether such a mediator is actually present to the mind. Charles Travis claims C is incoherent as a theory of perception because it cannot explain the basic fact of something's appearing to us [cf. @travis2004aa; @travis2013aa, Ch. 1].
 
 # We can use this to understand sympathy
 
-Sympathy equally can be thought of as a kind of awareness. At least in a range of paradigm cases, we can think of it as an awareness of the feelings of someone else. For clarity of exposition, I want to restrict myself to such paradigm cases here.
+I want to suggest that sympathy equally can be thought of as a kind of experiential awareness. At least in a range of paradigm cases, we can think of it as a source of knowledge of the feelings of someone else that relies on a specific experience. Typically, what we experience is reported as "Feeling what someone else feels". 
 
-Hisham is in panic because he's chased by a wild dog. Zaynab, an onlooker, has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham and becomes 'feels along' with his anxiety. She's affected by his feelings. This is awareness by experience: it consists in Zaynab's feeling some way, a feeling that enables her to know that Hisham is in a state of terror.  
+Let's consider an example. Hisham is in panic because he's chased by a wild dog. Zaynab, an onlooker, has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham, and 'feels along' with his anxiety. She's affected by his feelings. This is an experiential awareness consisting in Zaynab's becoming aware of a specific feeling that enables her to know that Hisham is in a state of terror.  
 
 ## This gives us four theories of sympathy
-We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in Zaynab's sympathetic response. Is Zaynab's awareness mediated or not? Does it depend on the actuality of what she feels or not? We can represent the resulting four understanding of sympathy in a diagram.
+We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in Zaynab's sympathetic response. Is Zaynab's awareness mediated or not? Does it depend on the actuality of what she feels or not? These questions make sense, and it is just not obvious what we should say in reply to each of them. We can represent the resulting four understanding of sympathy in a diagram.
 
 SYMPATHY | Dependent | Independent
 --- | --- | ---
 Immediate | A: Naïve realist | B: Intentionalist
 Mediate | C: Contagion | D: Simulation
 
-Alvin Goldman writes about sympathy that it is a low-level mental simulation "in which one mental process matches another one, or is launched in an attempt to match another one."[@goldman2009aa, p. 246] Similarly, in a recent paper Amy Coplan maintains that sympathising "the observer replicates or reconstructs the target's experiences", experiences that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. In fact, the vast majority of authors that have recently discussed sympathy more or less take it for granted that Zaynab's sympathy for Hisham is somehow mediated by her own feeling. When Zaynab sympathises with Hisham, the feeling she's immediately aware of is a 'mirror image' of Hisham's anxiety. Sympathy at root is a kind of 'replicating' or 'mirroring' of feeling. 
+Laying out the possibilities in this way allows us to make some observations. 
 
-In other words, the current consensus among authors who assume that we have a sympathetic capacity is that sympathy either consists in a form of emotional contagion, or in a form of mental simulation. And if this is right, then the way of looking at the issue I propose here reveals current discussions to be limited in outlook. Besides discussions over details, they are constrained to the dispute over whether the contagion or the simulation model best captures our sympathetic responses.
+First, at least in recent literature, there is a striking bias towards the options in the second row of our diagram. Alvin Goldman writes about sympathy that it is a low-level mental simulation "in which one mental process _matches_ another one, or is launched in an attempt to _match_ another one."[@goldman2009aa, p. 246, my italics] Similarly, in a recent paper Amy Coplan maintains that sympathising "the observer _replicates_ or _reconstructs_ the target's experiences", experiences that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6, my italics]. 
 
+The vast majority of authors that have recently discussed sympathy seem to assume that Zaynab's sympathy for Hisham must somehow be mediated by her own feeling. When Zaynab sympathises with Hisham, the feeling she's immediately aware of is a 'mirror image' of Hisham's anxiety. Sympathy, it is assumed, is at root a kind of 'replicating' or 'mirroring' of feeling, where this replication either is a low-level, automatic response, or the project of a more sophisticated, top-down mechanism of simulation or imagination. In other words, the current consensus among authors who assume that we have a sympathetic capacity is that sympathy either consists in a form of emotional contagion, or in a form of mental simulation. 
 
-
-(Note, there is a claim about low level empathy, by some called basic empathy, by others 'mirroring'. )
+If this is right, then the way of looking at the issue I propose here reveals current discussions to be limited in outlook. Apart from discussions over details, they are constrained to the dispute over whether the contagion or the simulation model best captures our sympathetic responses. Yet this ignores two potentially viable options, the one's that parallel naïve realism and intentionalism in the philosophy of perception. 
 
 
 ## Mediate and immediate sympathy
