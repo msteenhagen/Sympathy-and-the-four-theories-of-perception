@@ -79,7 +79,7 @@ We can now see that applying the two earlier distinctions can shed light on what
 
 SYMPATHY | Dependent | Independent
 --- | --- | ---
-Immediate | A: Naïve realist | B: Intentionalist
+Immediate | A: 'Naïve realist' | B: 'Intentionalist'
 Mediate | C: Contagion | D: Simulation
 
 ## Diagnosis
