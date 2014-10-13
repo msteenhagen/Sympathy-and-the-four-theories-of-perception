@@ -20,18 +20,18 @@ After some brief remarks about terminology and the history of sympathy, I will a
 
 ## With 'sympathy' we do not mean any specific feeling
 
-Terminology. What I call 'sympathy' is nowadays often called empathy. The labelling doesn't matter. What matters is that by 'sympathy' I don't mean a specific kind of compassionate sentiment, but a general psychological capacity we seem to have: the capacity to become aware of, or in some way experience or live through the mental states or sentiments of others, _whatever these states or sentiments happen to be_. Sympathy is a kind of openness to the mental lives of other people. 
+What I call 'sympathy' is nowadays often called empathy. The labelling doesn't matter. What matters is that by 'sympathy' I don't mean a specific kind of compassionate sentiment, but a general psychological capacity we seem to have: the capacity to become aware of, or in some way experience or live through the mental states or sentiments of others, _whatever these states or sentiments happen to be_. Sympathy is a kind of openness to the mental lives of other people. 
 
 ## The concept of sympathy has a long history 
 
-History. Understanding the history of sympathy sheds important light on which puzzle it is meant to solve in contemporary debates. The concept of sympathy, at least in philosophy and science, came first into prominence in Stoic writings. It was not then primarily a psychological notion, but a concept in physics or cosmology. It was recruited to explain cases of action at a distance. Think of the way the moon influences the tidal flow of our oceans. It does so without their being any contact between the lunar surface and the seas. This phenomena are puzzling. The Stoics inferred that they show that the cosmos is a ‘sympathetic’ unity: any part of the cosmos has the potential to affect every other part without intermediaries. 
+Understanding the history of sympathy sheds important light on which puzzle it is meant to solve in contemporary debates. The concept of sympathy, at least in philosophy and science, came first into prominence in Stoic writings. It was not then primarily a psychological notion, but a concept in physics or cosmology. It was recruited to explain cases of action at a distance. Think of the way the moon influences the tidal flow of our oceans. It does so without their being any contact between the lunar surface and the seas. This phenomena are puzzling. The Stoics inferred that they show that the cosmos is a ‘sympathetic’ unity: any part of the cosmos has the potential to affect every other part without intermediaries. 
 
 Now, to modern ears---ears used to cool mechanism---the very idea of action at a distance will sound funny, contradictory, even. Modern cosmology and physics aspires to explanations that trace series of proximal causes, consisting of vibrating air, molecular chain-reactions, propagating light waves, etc.
 
 But even today philosophy has room for the concept of sympathy. Although it's discredited as an explanatory concept in the natural sciences, sympathy lives on in the 'Science of Man', as English and Scottish enlightenment authors became interested in it. For these authors the problem of action at a distance re-emerged. In some way, we have access to and even seem to be affected by the contents of another individual's mind. How can I know on the basis of my sensations, impressions or ideas about the sensations, impressions or ideas this other person has? Sympathy gets introduced to explain this, and so gets moulded into the psychological shape we're familiar with. This is how I will understand the concept in what follows.
 
 # Sympathy & perception are forms of awareness
-To sympathise with someone, is to feel your way into their mental state. It is often taken to be a crucial element in mind-reading, and arguably plays a role in our capacity for concerted agency or thought. So, at least often, an answer to how it is that Deborah knows what Brad is going through (if she know this) is found in the fact that Deborah is able to sympathise with Brad's feelings.
+To sympathise with someone, is to feel your way into their mental state. It is often taken to be a crucial element in mind-reading, and arguably plays a role in our capacity for concerted agency or thought. So, at least often, an answer to how it is that Zayneb knows what Hisham is going through (if she know this) is found in the fact that Zayneb is able to sympathise with Hisham's feelings.
 
 Sense perception can be thought of as a form of awareness. It is awareness by experience, as we could put it. Perceiving a suspension bridge involves such a bridge making its way into your experience of your surroundings. I think that, similarly, sympathy can be thought of as a kind of awareness by experience. It is commonly contrasted often with a mere inferential or theoretical understanding of other people's states: it is a kind of awareness of other people's states that proceeds by means of experience. 
 
@@ -74,37 +74,48 @@ The __fourth__ view is somewhat puzzling. This view agrees with sense-datum theo
 
 # We can use this to understand sympathy
 
-Sympathy equally can be thought of as a kind of awareness. At least in a range of paradigm cases, we can think of it as an awareness of the feelings of someone else. I want to restrict myself to such paradigm cases. So let's see how this works. 
+Sympathy equally can be thought of as a kind of awareness. At least in a range of paradigm cases, we can think of it as an awareness of the feelings of someone else. For clarity of exposition, I want to restrict myself to such paradigm cases here.
 
-Hisham is in panic because he's chased by a wild dog. Zaynab, an onlooker, has a sympathetic reaction to Hisham's suffering. She becomes aware of Hisham's anxiety. This is an awareness by experience: it consists in Zaynab's feeling some way. 
+Hisham is in panic because he's chased by a wild dog. Zaynab, an onlooker, has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham and becomes 'feels along' with his anxiety. She's affected by his feelings. This is awareness by experience: it consists in Zaynab's feeling some way, a feeling that enables her to know that Hisham is in a state of terror.  
 
-## The four theories of moral sympathy
-We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in such a sympathetic response. This gives us four 'theories' of sympathy.
+## This gives us four theories of sympathy
+We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in Zaynab's sympathetic response. Is Zaynab's awareness mediated or not? Does it depend on the actuality of what she feels or not? We can represent the resulting four understanding of sympathy in a diagram.
 
 SYMPATHY | Dependent | Independent
 --- | --- | ---
-Immediate | A: ? | B: ?
+Immediate | A: Naïve realist | B: Intentionalist
 Mediate | C: Contagion | D: Simulation
 
-## Mediate and immediate sympathy
+Alvin Goldman writes about sympathy that it is a low-level mental simulation "in which one mental process matches another one, or is launched in an attempt to match another one."[@goldman2009aa, p. 246] Similarly, in a recent paper Amy Coplan maintains that sympathising "the observer replicates or reconstructs the target's experiences", experiences that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. In fact, the vast majority of authors that have recently discussed sympathy more or less take it for granted that Zaynab's sympathy for Hisham is somehow mediated by her own feeling. When Zaynab sympathises with Hisham, the feeling she's immediately aware of is a 'mirror image' of Hisham's anxiety. Sympathy at root is a kind of 'replicating' or 'mirroring' of feeling. 
 
-Is Hisham's anxiety the immediate object of Zaynab's awareness? A negative answer is what underpins most simulation approaches to sympathy. When we sympathise with someone, we simulate their mental state by 'running offline' some of our own mental processes. The result is a feeling of ours that figures as an encapsulated, offline element of our overall mental state. If the answer is yes, on the other hand, then we may say that the traditional way of thinking about sympathy as a capacity to 'feel what others feel' seems very apt.  
+In other words, the current consensus among authors who assume that we have a sympathetic capacity is that sympathy either consists in a form of emotional contagion, or in a form of mental simulation. And if this is right, then the way of looking at the issue I propose here reveals current discussions to be limited in outlook. Besides discussions over details, they are constrained to the dispute over whether the contagion or the simulation model best captures our sympathetic responses.
+
+
+
+(Note, there is a claim about low level empathy, by some called basic empathy, by others 'mirroring'. )
+
+
+## Mediate and immediate sympathy
+But let us now suppose that Hisham's anxiety is the immediate object of Zaynab's awareness. What Zayneb feels _is_ Hisham's fear---she does not to have any feeling of her own. This view will be shared by those 
+
+
+A negative answer is what underpins most simulation approaches to sympathy. When we sympathise with someone, we simulate their mental state by 'running offline' some of our own mental processes. The result is a feeling of ours that figures as an encapsulated, offline element of our overall mental state. If the answer is yes, on the other hand, then we may say that the traditional way of thinking about sympathy as a capacity to 'feel what others feel' seems very apt.  
 
 ## Dependent and independent sympathetic awareness
-
-Now, to our second question: Is Zeynep's sympathetic state dependent on the actual existence of its immediate object? We should keep in mind that, as we just saw, there will be two opposed views on what these immediate objects are. They are either the 'target' feelings of the other person, or they are something else. Can we experience a feeling of anxiety when there is none? If we think that sympathetic awareness is intentional, then this must be possible. If, on the other hand, we think of it as a dependent awareness, then it cannot be so. 
-
+On the other hand, o
 
 
-This gives us four ways of thinking about sympathy.
+Now, to our second question, Is Zaynab's sympathetic state dependent on the actual existence of its immediate object? We should keep in mind that, as we just saw, there will be two opposed views on what these immediate objects are. They are either the 'target' feelings of the other person, or they are something else. Can we experience a feeling of anxiety when there is none? If we think that sympathetic awareness is intentional, then this must be possible. If, on the other hand, we think of it as a dependent awareness, then it cannot be so. 
 
 ### Representationalism (A)
 
 ### Naïve realism (B)
 
+As Whitehead characterises sympathy, it is "feeling the feeling _in_ another and feeling conformally _with_ another" [@whitehead1979aa, p. 162].     This captures both aspects of immediacy and dependence (you can't feel with another if the other doesn't feel it).
+
 ### Off-line simulation (C)
 
-This seems to be what Amy Coplan defends. She thinks that in  sympathising "the observer replicates or reconstructs the target's experiences", which points to the role of these replicated passions as mediators or proxies. And she thinks that by doing this we represent a target's states that are not directly accessible through the observer's perception [@coplan2011aa, p. 5-6]. 
+This seems to be what  
 
 ### Emotional contagion (D)
 
@@ -112,7 +123,15 @@ The fourth possibility is often thought of as an emotional contagion model of sy
 
 ## Reflection
 
-I now want to reflect on this for a few minutes. 
+I want to make a few observations.
+
+First a point about what is currently taken to be 'beyond dispute'. In the philosophy of perception, the main discussion is whether perception is dependent or independent. Most authors agree that the immediate object of awareness is just the object we are said to perceive. Although it is certainly not universal, the general consensus seems to be that perception does not involve awareness of any mediator or proxy. 
+
+However, it is striking how rarely the option of an immediate awareness of someone else's feeling is even considered. The idea that sympathy with another's mental state is a mediated form of awareness is more or less beyond dispute. The main controversy is whether the feeling that functions as proxy for the other person's mental state is an actual feeling, or a merely imagined or 'off-line' one. This is the issue whether the awareness is dependent or independent.  
+
+
+
+Perception are related to whole object, sympathy related to states or aspects of objects/people. But look: if those are concerns, then we are really pushing into the line of other mind scepticism. This allows me to spell out: feeling arent' visible, they don't reflect light etc. - Very similar to estimation .  
 
 ### What is the standard view? 
 
@@ -126,11 +145,16 @@ What is the naïve view? I want to suggest that this is the view that we are imm
 
 Concerns about phenomenology come in here. In perception, there arguably is a sense of presence. Is there a similar sense in the case of sympathy?
 
+> One such process is a kind of ‘resonance’ which is more or less non-conscious. This is what Alvin Goldman calls ‘primitive, ‘low-level’ mind- reading’ (2006a: 113), and Karsten Steuber (2006) calls ‘basic empathy’. For example, in recognizing another’s face as expressing a certain emotion, ‘the observer’s emotional system “resonates” with that of the target, and this is the matching event on which the attribution is based’ (Goldman 2006a: 132). Goldman draws on a wide range of empirical data to lend support to the existence of this kind of low-level simulation, much of it based on the fascinating recent work on mirror neurons (see also Goldman this volume and Iacoboni this volume). [@coplan2011aa, p. 304]
+
 ### Sympathy as projective identification?
 
 In previous discussions Louise Braddock has explored the way sympathy and projective identification relate. Projective identification is a complex phenomenon, involving the projection of a mental state into another person and the subsequent identification with that other person. This allows people to respond to and 'deal with' their own unwanted mental states in a detached and third or second-personal way. It's to that extent deceptive. 
 
 Perhaps we only need to consider projection here. If sympathy involves projection, then which way does this run? Plausibly, it has to be a projection from sympathiser to sufferer, for it often happens that we sympathise with people who are not aware of being observed, and so arguably are in no position to project. (Perhaps we can introduce the activity of broadcasting for this circumstances.)
+
+
+
 
 # Perception, moral sympathy, and episodic memory
 
@@ -153,5 +177,7 @@ Mediate | C: Re-enacting | D: Mental modelling
 What is most interesting to observe here is that there is at least a prima facie plausibility to the Independent Mediator views in a way not found in perception. In remembering, we piece together a model of an event that is not actually going on, but merely imagined, and this imagined event stands in and aims to track or represent an earlier event, the event we claim to remember. These views are called naive indirect realists about memory, and face the question: what distinguishes memory from imagination [cf. Lawlor's chapter in @mclaughlin2009aa, p. 663]. On the other hand, the idea that an actual event is experienced, which mediates for a past event (call it the re-enactment view), is puzzling as an account of episodic memory. 
 
 # Conclusions
+
+
 
 # References
