@@ -79,7 +79,7 @@ Immediate | A: 'Naïve realist' | B: 'Intentionalist'
 Mediate | C: Contagion | D: Simulation
 
 ## Diagnosis
-Laying out the possibilities in this way allows us to make some observations. 
+This gives us the four most general theories of sympathy. We have theories that maintain that sympathising with another person's feeling is immediate, and theories that posit some mediator phenomenon. And we have theories that maintain that sympathising with another involves a merely intentional mode of awareness, and theories that deny this. Laying out the possibilities in this way allows us to make some observations.
 
 ### Bias towards contagion and simulation
 At least in recent literature, there is a striking bias towards the options in the second row of our diagram---what I've labelled the contagion and simulation theories. 
