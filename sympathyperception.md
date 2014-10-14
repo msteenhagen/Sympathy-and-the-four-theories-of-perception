@@ -121,6 +121,6 @@ This is one reason why the discussion over whether sympathising with others is m
 
 This is just the starting point of a discussion. Although historically, all four possible theories of sympathy received attention, I worry that nowadays philosophers start ordering their meals without having flipped the menu. I've tried to exploit an analogy with perception to bring out that sympathetic engagement may be theorised in more ways. More specifically, I suggested that we may want to try to develop an understanding of sympathy as a form of immediate awareness of the feelings of others.
 
-I have not given a defence of that theory. My main point is that taking the full range of options into consideration, and reflecting more carefully on the arguments that speak in favour or against them, forces us to retrace our steps. This can have important ethical implications; it is likely to shed a brighter light on how we understand ourselves in relation to one another.
+I have not given a defence of that theory. My main point is that taking the full range of options into consideration, and reflecting more carefully on the arguments that speak in favour or against them, forces us to retrace our steps.
 
 # References
