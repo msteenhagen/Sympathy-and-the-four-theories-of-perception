@@ -43,7 +43,7 @@ Both these questions are besieged by controversy, but I think that at least the 
     
 ### Mediate and immediate perception
 
-Think of a painted portrait of a distant relative. Your visual awareness of the portrait enables perceptual access to a person that, at least from where you're now, cannot be perceived immediately. In this way, the portrait may be thought of as a mediator in your visual perception. The portrait enables you to see the relative, even though they are not currently around.
+First, mediate and immediate perception. Think of a painted portrait of a distant relative. Your visual awareness of the portrait enables perceptual access to a person that, at least from where you're now, cannot be perceived immediately. In this way, the portrait may be thought of as a mediator in your visual perception. The portrait enables you to see the relative, even though they are not currently around.
 
 Ordinary seeing doesn't involve awareness of painted portraits. But many authors have suggested that it involves awareness of some other kind of mediator. Hume's theory of sense impressions can be read as claiming that seeing a suspension bridge is constituted by a visual awareness of a subjective, private complex of impressions that enables perceptual access to a bridge that lies beyond it.
 
@@ -51,31 +51,27 @@ So if we ask what the immediate object of visual awareness in perception is, we 
 
 ### Dependent and independent perception
 
-Does our awareness depend for its occurrence on the existence of its immediate objects? Think of a case where someone is hallucinating. They maintain that they see a figure in the corner of a room where there is just no such figure. Is this a possible perception? Some say it is not, others say it is. 
-
-The second distinction then concerns the immediate awareness that is constitutive of acts of perceiving. We may distinguish between awareness that's dependent on its objects, and awareness that isn't. This distinction has taken central stage in recent discussion in the philosophy of perception.
+Second, dependent and independent perception. Does our awareness depend for its occurrence on the existence of its immediate objects? Think of a case where someone is hallucinating. They report seeing a figure in the corner of a room. But there is no such figure. Do they perceive that figure? Some say they do, others say they don't. Their dispute is over the immediate awareness that is constitutive of acts of perceiving. We may distinguish between awareness that's dependent on its objects, and awareness that is merely 'intentional'. This distinction has taken central stage in recent discussion in the philosophy of perception.
 
 ## The four theories of perception 
 
-Given these distinctions, we end up with four different ways of thinking about what perception involves. Again, I will focus on vision. 
+Given these distinctions, we end up with four different ways of thinking about what perception involves. I'll continue focusing on vision. 
 
 VISION | Dependent | Independent
 --- | --- | ---
 Immediate | I. Naïve realist | II. Intentionalism
 Mediate | III. Sense-datum | IV. ?
 
-The __first__ view, naïve realism is arguably the view of common sense. It's the view that we are directly aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing out there. In such a case we're under the spell of hallucination. The __second__ position is frequently called 'intentionalism', and is currently most popular among philosophers. The intentionalist agrees that we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object is present or exists. The __third__ view is best known through its defence by sense-datum theories, popular until the 1950s. Contrary to naïve realism and intentionalism, it maintains that in perception we're aware of a mediator or proxy that relays information about the objects in our environment we report to see.
-
-The __fourth__ view is somewhat puzzling. This view agrees with sense-datum theory that perception consists first and foremost of the awareness of a mediator, but it claims that this awareness may occur regardless of whether such a mediator is actually present to the mind. The claim would be that perception consists in an intentional awareness of a sense impression, say; but it is unclear why such an intentional awareness could not reach out for the objects we report to perceive.  
+The __first__ view, naïve realism is arguably the view of common sense. It's the view that we are directly aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing out there. In such a case we're under the spell of hallucination. The __second__ position is frequently called 'intentionalism', and is currently most popular among philosophers. The intentionalist agrees that we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object is present or exists. The __third__ view is best known through its defence by sense-datum theories, popular until the 1950s. Contrary to naïve realism and intentionalism, it maintains that in perception we're aware of a mediator or proxy that relays information about the objects in our environment we report to see. The __fourth__ view is somewhat puzzling. This view agrees with sense-datum theory that perception consists first and foremost of the awareness of a mediator, but it claims that this awareness may occur regardless of whether such a mediator is actually present to the mind. It's puzzling because it is unclear what motivates this specific combination of intentionalism and a mediator view of vision.  
 
 # The possibilities of sympathy
 
-I suggested that sympathy can be thought of as a kind of experiential awareness too. At least in a range of paradigm cases, we can think of it as a source of knowledge of the feelings of someone else that relies on a specific experience. What we experience is reported as "Feeling what someone else feels". 
+Let's now return to sympathy. I suggested that sympathy can be thought of as a kind of experiential awareness too. At least in a range of paradigm cases, we can think of it as a source of knowledge of the feelings of someone else that relies on a specific experience. What we experience is reported as "Feeling what someone else feels". 
 
 Let's consider an example. Hisham is in panic because he's chased by a wild dog. Zaynab, an onlooker, has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham, and 'feels along' with his anxiety. She's affected by his feelings. This is an experiential awareness consisting in Zaynab's becoming aware of a specific feeling that enables her to know that Hisham is in a state of terror.  
 
 ## The four theories of sympathy
-We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in Zaynab's sympathetic response. Is Zaynab's awareness mediated or not? Does it depend on the actuality of what she feels or not? These questions make sense, and it is just not obvious what we should say in reply to each of them. We can represent the resulting four understanding of sympathy in a diagram.
+We can now see that applying the two earlier distinctions can shed light on what elements or relations are involved in Zaynab's sympathetic response. Is Zaynab's awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? These questions make sense, and it is just not obvious what we should say in reply to each of them. 
 
 SYMPATHY | Dependent | Independent
 --- | --- | ---
