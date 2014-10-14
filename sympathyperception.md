@@ -43,11 +43,11 @@ Both these questions are besieged by controversy, but I think that at least the 
     
 ### Mediate and immediate perception
 
-Think of a painted portrait of a distant relative. Your visual awareness of the portrait enables perceptual access to a person that, at least from where you're now, cannot be perceived immediately. In this way, the portrait may be thought of as a mediator in your visual perception. 
+Think of a painted portrait of a distant relative. Your visual awareness of the portrait enables perceptual access to a person that, at least from where you're now, cannot be perceived immediately. In this way, the portrait may be thought of as a mediator in your visual perception. The portrait enables you to see the relative, even though they are not currently around.
 
-Now, an ordinary case of seeing a suspension bridge doesn't involve awareness of painted portraits, but many authors have suggested that it involves awareness of some other kind of mediator or go-between. One way of understanding Hume's theory of sense impressions is as a view according to which seeing a suspension bridge is constituted by a visual awareness of a subjective, private complex of impressions that enables perceptual access to a bridge that lies beyond it.
+Ordinary seeing doesn't involve awareness of painted portraits. But many authors have suggested that it involves awareness of some other kind of mediator. Hume's theory of sense impressions can be read as claiming that seeing a suspension bridge is constituted by a visual awareness of a subjective, private complex of impressions that enables perceptual access to a bridge that lies beyond it.
 
-So if we ask what the immediate object of visual awareness in perception is, we open up this issue of potential perceptual mediation. Is our perception of the world mediated or not? A mediator in perception is some object of awareness that functions as a proxy or go-between, and that enables perceptual access to things that lie beyond it. 
+So if we ask what the immediate object of visual awareness in perception is, we open up this issue of potential perceptual mediation. Is our perception of the world mediated or not? 
 
 ### Dependent and independent perception
 
