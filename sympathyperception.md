@@ -57,6 +57,8 @@ Second, dependent and independent perception. Can our awareness occur independen
 
 Given these distinctions, we end up with four different ways of thinking about what perception involves. I'll continue focusing on vision. 
 
+\vspace{1cm}
+
 VISION | Dependent | Independent
 --- | --- | ---
 Immediate | I. Naïve realist | II. Intentionalism
@@ -73,13 +75,15 @@ Let's consider an example. Hisham is in panic because he's chased by a wild dog.
 ## The four theories of sympathy
 We can now see that applying the two earlier distinctions helps see what could be going on in Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? These questions make sense, and it is just not obvious what we should say in reply to each of them. 
 
+## Diagnosis
+Here we have the four most general theories of sympathy. We have theories that maintain that sympathising with another person's feeling is immediate, and theories that posit some mediator phenomenon. And we have theories that maintain that sympathising with another involves a merely intentional mode of awareness, and theories that deny this. Laying out the possibilities in this way allows us to make some observations.
+
+\vspace{1cm}
+
 SYMPATHY | Dependent | Independent
 --- | --- | ---
 Immediate | A: 'Naïve realist' | B: 'Intentionalist'
 Mediate | C: Contagion | D: Simulation
-
-## Diagnosis
-Here we have the four most general theories of sympathy. We have theories that maintain that sympathising with another person's feeling is immediate, and theories that posit some mediator phenomenon. And we have theories that maintain that sympathising with another involves a merely intentional mode of awareness, and theories that deny this. Laying out the possibilities in this way allows us to make some observations.
 
 ### Bias towards contagion and simulation
 Alvin Goldman writes about sympathy that it is a low-level mental simulation in which one mental process "is launched in an attempt to _match_ another one."[@goldman2009aa, p. 246, my italics] In recognizing another’s face as expressing a certain emotion, "the observer’s emotional system 'resonates' with that of the target, and this is the matching event on which the attribution is based" [@goldman2006aa, p. 132]. Similarly, Amy Coplan maintains that sympathising "the observer _replicates_ or _reconstructs_ the target's experiences", experiences not directly accessible through the observer's perception [@coplan2011aa, pp. 5-6, my italics]. 
@@ -107,7 +111,7 @@ Hume's subsequent _theory_ of sympathy tries to harmonise such sympathetic respo
 
 This at least reveals a tension. On the one hand, we still feel the pull of those everyday cases in which the suffering or rapture of others is communicated to us in an affective way. On the other hand, our tradition of psychological theorising does not admit of feeling to 'travel' or 'spread out' beyond the individual. But then, we should ask, what makes us so confident that we can't share feeling? I suggest we at least aspire to move beyond our comfort zone, and comb through our background assumptions about feelings and other minds, instead of assuming that the eighteenth century settled the matter for once and for all.
 
-### Ethics of sympathy
+# Ethics of sympathy
 
 Observing this tension is relevant to discussing the ethical standing of sympathy. In recent years several authors have worried about sympathy's validity and reliability: does it track what it purports to, and can it ever succeed? 
 
