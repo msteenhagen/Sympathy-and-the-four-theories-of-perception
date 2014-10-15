@@ -123,8 +123,8 @@ This is why my earlier discussion of sympathy matters. If sympathy were always m
 
 # Conclusions
 
-This is just the starting point of a discussion. Although historically, all four possible theories of sympathy received attention, I worry that nowadays philosophers start ordering their meals without having flipped the menu. I've tried to exploit an analogy with perception to bring out the diversity of ways of understanding sympathy. More specifically, I suggested that we may want to take serious an understanding of sympathy as a form of immediate awareness of the feelings of others.
+This is just the starting point of a discussion. Although historically, all four possible theories of sympathy received attention, I worry that nowadays philosophers start ordering their meals without having flipped the menu. Through the analogy with perception I have brought out further ways of understanding sympathy. More specifically, I suggested that we may want to take seriously an understanding of sympathy as a form of immediate awareness of the feelings of others.
 
-I haven't defended that theory. My main point is that taking the full range of options into consideration, and reflecting more carefully on the arguments that speak in favour or against them, forces us to retrace some of our steps.
+I haven't defended that theory. My main point is that systematically assessing the full range of options forces us to retrace some of our steps.
 
 # References
