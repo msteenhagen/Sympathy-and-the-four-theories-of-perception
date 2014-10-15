@@ -113,13 +113,13 @@ This reveals a tension. On the one hand, we feel the pull of everyday cases in w
 
 # Ethics of sympathy
 
-Observing this tension is relevant to discussing the ethical standing of sympathy. In recent years several authors have worried about sympathy's validity and reliability: does it track what it purports to, and can it ever succeed? 
+This tension between everyday and theoretical convictions has implications for the ethics of sympathy. Recent authors have worried about sympathy's reliability: does it track what it purports to, and can it ever succeed? 
 
-Peter Goldie is a prominent critic. He spells out our capacity for sympathy in terms of imaginative perspective-shifting. Goldie thinks that when Zaynab sympathises with Hisham, Zaynab is imagining _being_ Hisham. In such an imaginative project, Zaynab becomes aware of imagined feelings she assigns to Hisham. Goldie's account entails that, strictly, it isn't Hisham's feeling Zaynab is aware of, but an imagined counterpart---indeed, a mediator. This is why Goldie feels compelled to conclude that Zaynab's sympathy is prone to distort Hisham's psychology: there always will be factors we leave out of such imaginative engagement---for instance, it matters that a feeling arose _in Hisham_ instead of Zaynab [@goldie2011ac, p. 14; @goldie2005aa]. Trying to apprehend one particular feeling by apprehending another, merely similar feeling _necessarily_ falls short.
+Peter Goldie is a prominent critic. He spells out sympathy in terms of imaginative perspective-shifting. Goldie thinks that when Zaynab sympathises with Hisham, Zaynab imagines _being_ Hisham. In such an imaginative project, Zaynab becomes aware of imagined feelings she assigns to Hisham. Strictly, Zaynab isn't aware of Hisham's feeling, but of an imagined counterpart---a mediator. Hence Goldie concludes that sympathy is prone to distort: there always will be some factors left out of such imaginative engagement [@goldie2011ac, p. 14; @goldie2005aa]. Trying to apprehend one feeling by apprehending a similar but different one _necessarily_ falls short.
 
-But if sympathy were an immediate awareness of another person's mental state then Goldie's worry would not arise. No doubt it may be difficult to exercise our capacity for sympathy. Similarly, it can be hard to exercise our capacity for sight---seeing the farm animals on a dim-lit country road after dusk is far from easy. The point is that, if sympathy is a capacity for feeling someone else's feelings immediately, then it is at least in principle possible to succeed. 
+But if sympathy gave immediate awareness of another person's state, then Goldie's worry would not arise. No doubt it may be difficult to exercise our capacity for sympathy, just as it can be hard to exercise our capacity for sight---seeing the farm animals on a dim-lit country road after dusk is far from easy. If sympathy is a capacity for feeling someone else's feelings immediately, it is at least possible to succeed. 
 
-This is one reason why the discussion over whether sympathising involves a mediating feeling or not matters. If sympathy is always mediated by some feelings originating in us, then Goldie's concerns arise; but if it's not, then sympathising may be among the most valuable ways of directly relating to others.
+This is why my earlier discussion of sympathy matters. If sympathy were always mediated by some feelings originating in us, then Goldie's concerns would arise. If not, then sympathising might just be an invaluable way of relating to others.
 
 # Conclusions
 
