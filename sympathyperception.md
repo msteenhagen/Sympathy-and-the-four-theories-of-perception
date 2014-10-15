@@ -51,7 +51,7 @@ When asking about the immediate object of visual awareness in perception, we run
 
 ### Dependent and independent perception
 
-Second, dependent and independent perception. Can our awareness occur independent of the existence of its immediate objects? Think of a case where someone is hallucinating. They report seeing a figure in the corner of a room. But there is no such figure. Can they still perceive that figure? Some say they can, others say they can't. Their dispute is over the immediate awareness constitutive of perceiving. We may distinguish between awareness that's dependent on its objects, and awareness that is merely 'intentional'. In recent discussion in the philosophy of perception this distinction has taken central stage.
+Second, dependent and independent perception. Is our awareness dependent on its immediate objects--such as bridges and cousins? Suppose someone is hallucinating. They report seeing a figure in the corner of a room. But there is no such figure. Can they still perceive that figure? Some say they can, others say they can't. Their dispute is over the immediate awareness that constitutes perceiving. Either the awareness is dependent on its objects, or it is merely 'intentional'. This distinction is central in recent discussions of perception.
 
 ## The four theories of perception 
 
