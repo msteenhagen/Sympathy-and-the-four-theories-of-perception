@@ -27,9 +27,9 @@ But even today philosophy has room for the concept of sympathy. Although discred
 
 # Sympathy, awareness, perception
 
-To sympathise with someone is to feel your way into their mental state. It's often taken to be a crucial element in mind-reading. At least often, an answer to how it is that Zayneb knows what Hisham is going through (if she know this) is that Zayneb sympathised with Hisham's feelings. Sympathy often is a source of knowledge about others.
+To sympathise with someone is to feel your way into their mental state. It's often taken to be a crucial element in mind-reading. Often an answer to how Zayneb knows what Hisham is going through (if she know this) is that Zayneb sympathised with Hisham's feelings. Sympathy often is a source of knowledge about others.
 
-Sense perception is a source of knowledge too. It's a form of awareness of our surroundings. This awareness is _experiential_, as we could put it. Perceiving a suspension bridge involves that bridge being part of your experience of things. Similarly, we may understand sympathy as a kind of experiential awareness. It is commonly contrasted with a mere inferential or theoretical understanding of other people's states. Sympathy can be a source of knowledge about others because of the specific _experience_ sympathising with someone involves.
+Sense perception is a source of knowledge too. It's a form of awareness of our surroundings. This awareness is _experiential_. Perceiving a suspension bridge means that you experience that bridge. Similarly, we may understand sympathy as a kind of experiential awareness. It is commonly contrasted with inferential or theoretical understanding of other people's states. Sympathy can be a source of knowledge about others because sympathising with someone is an _experience_.
 
 ## Two principles of delineation
 
