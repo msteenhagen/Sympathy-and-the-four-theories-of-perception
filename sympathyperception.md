@@ -33,13 +33,13 @@ Sense perception is a source of knowledge too. It's a form of awareness of our s
 
 ## Two principles of delineation
 
-I want to shed light on sympathetic awareness by looking at several ways we can understand perceptual awareness. In the philosophy of perception we find a clear delineation of views. Take that suspension bridge again. When you see that bridge, what elements and relations make up such an act? There are two important questions here. 
+I want to illuminate sympathetic awareness by comparing it to perceptual awareness. The philosophy of perception presents a clear delineation of views. Take that suspension bridge again. When you see that bridge, what elements make up such an act? Two important questions arise. 
 
-When you see that bridge, is the immediate object of your visual awareness the bridge, or is it something else, such as an image of the bridge, or the bridge's outer surface, or a bridge-like sense impression caused in you? Disputes over this question have a long, infamous history. The first question concerns the immediate object of perception.
+When you see that bridge, is the bridge the immediate object of your visual awareness, or something else, such as an image of the bridge, the bridge's outer surface, or a bridge-like sense impression you had? This question has a long, infamous history. It concerns the immediate object of perception.
 
-The second question concerns the kind of awareness we have of the immediate object of perception. Whether it is a bridge or a sense impression, must these objects of awareness  exist or not? Could you have this awareness if the thing you became aware of did not exist? Can we think of it as a relation or form of contact with reality? Especially in the last decades, philosophers have debated what we should say about this, and nowadays this is a live debate.
+The second question concerns the kind of awareness we have of the immediate object of perception. Whether it is a bridge or a sense impression, must these objects of awareness  exist or not? Could you have this awareness if the thing you became aware of did not exist? Is it a form of contact with reality? The answers are currently still debated.
 
-Controversy besieges both these questions. But at least the basic distinctions here are straightforward. Let me say a little bit more about each of them.
+Controversy besieges both these questions. But at least the basic distinctions are straightforward. Let me say a little bit more about each of them.
     
 ### Mediate and immediate perception
 
