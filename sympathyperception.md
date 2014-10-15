@@ -73,7 +73,7 @@ Let's now return to sympathy. I suggested that sympathy is a kind of experientia
 Consider an example. Hisham is in panic because he's being chased by a wild dog. Zaynab has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham, and 'feels along' with his anxiety. She's affected by his feelings. Zaynab becomes aware of a specific feeling that enables her to know that Hisham is in a state of terror.
 
 ## The four theories of sympathy
-We can now see that applying the two earlier distinctions helps see what could be going on in Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? These questions make sense, and it is just not obvious what we should say in reply to each of them. 
+Applying the two earlier distinctions from philosophy of perception can help clarify Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? Answers to these questions carve out four general theories of sympathy. 
 
 ## Diagnosis
 Here we have the four most general theories of sympathy. We have theories that maintain that sympathising with another person's feeling is immediate, and theories that posit some mediator phenomenon. And we have theories that maintain that sympathising with another involves a merely intentional mode of awareness, and theories that deny this. Laying out the possibilities in this way allows us to make some observations.
