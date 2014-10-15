@@ -73,11 +73,7 @@ Let's now return to sympathy. I suggested that sympathy is a kind of experientia
 
 Consider an example. Hisham is in panic because he's being chased by a wild dog. Zaynab has a sympathetic reaction to Hisham's suffering. She watches and hears Hisham, and 'feels along' with his anxiety. She's affected by his feelings. Zaynab becomes aware of a specific feeling that enables her to know that Hisham is in a state of terror.
 
-## The four theories of sympathy
-Applying the two earlier distinctions from philosophy of perception can help clarify Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? Answers to these questions carve out four general theories of sympathy. 
-
-## Diagnosis
-Here are the options: either sympathising with another person's feeling is immediate, or there is some mediator. And either sympathising with another involves a merely intentional mode of awareness, or it does not. These systematic options invite some observations.
+Applying the two earlier distinctions from philosophy of perception can help clarify Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? Answers to these questions carve out four general theories of sympathy. These are the options: either sympathising with another person's feeling is immediate, or there is some mediator. And either sympathising with another involves a merely intentional mode of awareness, or it does not. These systematic options invite some observations.
 
 \vspace{1cm}
 
@@ -86,19 +82,19 @@ SYMPATHY | Dependent | Independent
 Immediate | A: 'Naïve realist' | B: 'Intentionalist'
 Mediate | C: Contagion | D: Simulation
 
-### Bias towards contagion and simulation
+## Bias towards contagion and simulation
 Alvin Goldman writes about sympathy that it is a low-level mental simulation in which one mental process "is launched in an attempt to _match_ another one."[@goldman2009aa, p. 246, my italics] In recognising another’s face as expressing a certain emotion, "the observer’s emotional system 'resonates' with that of the target, and this is the matching event on which the attribution is based" [@goldman2006aa, p. 132]. Similarly, Amy Coplan maintains that sympathising "the observer _replicates_ or _reconstructs_ the target's experiences", experiences not directly accessible to an observer [@coplan2011aa, pp. 5-6, my italics]. 
 
 It strikes me that the vast majority of recent authors seem to assume that Zaynab's own feeling mediates her sympathy for Hisham. When Zaynab sympathises with Hisham, the feeling she's immediately aware of is an 'image' of Hisham's anxiety. On this model sympathy is a kind of 'copying' of feeling, where such copy either is a low-level, automatic response, or involves a more sophisticated mechanism of simulation or imagination. 
 
 In short, authors understand sympathy either as a form of emotional contagion, or as a form of mental simulation. That sympathy is mediated awareness seems 'beyond dispute'. But this ignores two of the four available options, those that parallel naïve realism and intentionalism in the philosophy of perception. Let's turn to these. 
 
-### The possibility of 'immediate sympathy'
+## The possibility of 'immediate sympathy'
 Suppose that Hisham's anxiety is the immediate object of Zaynab's awareness. What Zaynab feels _is_ Hisham's fear. Here sympathy does not require her to have any feeling of her own. Whether Zaynab's awareness of Hisham's fear is merely intentional or not, on this line of thinking the view of sympathy as a capacity to 'feel what others feel' is spot on.
 
 The disappearance of these positions from the discussion is a recent one. Stoic authors introduced sympathy to allow a for one thing immediately influencing another. As late as 1928, Alfred North Whitehead characterised sympathy as "feeling the feeling _in_ another and feeling conformally _with_ another" [@whitehead1979aa, p. 162]. Whitehead explicitly allows for feeling to be _shared_ between individuals, in a way that is immediate and dependent.
 
-### Why this oversight?
+## Why this oversight?
 
 Why does the idea of feeling what another feels sounds so odd to many contemporary ears? I suggest that it contradicts a 'modern' intuition about psychology.   
 
