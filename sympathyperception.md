@@ -1,14 +1,15 @@
 ---
 title: Sympathy and the four theories of perception
-draft: Work in progress
+draft: Draft paper for INSEI October workshop
 author:
 - name: Maarten Steenhagen
   affiliation: university college london / university of toronto
   email: m.steenhagen.09@ucl.ac.uk
 date: October 2014
-abstract: Sympathy is often understood as the capacity to 'feel with' others. In this paper I want to approach a serious philosophical issue about this capacity through the lens of a fundamental dispute in the philosophy of perception. My aim is to bring out how it is all too easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why a 'direct' account of sympathy, one which allows us to feel the actual feelings of others, is commonly ruled out _ab initio_.
+abstract: Sympathy is a capacity to 'feel with' others. I approach this capacity through the lens of a fundamental dispute in the philosophy of perception. I bring out how it is all too easy to overlook viable options in the discussions about sympathy. In particular, I want to focus attention on why an 'immediate' account of sympathy is commonly ruled out from the beginning.
 ...
 
+\vspace{0.7cm}
 Sympathy is the capacity to 'tap into someone else's feelings', to 'feel with them', or to 'feel what they feel'. What are the basic elements of an act of sympathising? I suggest that we can answer this question by turning to the philosophy of perception.
 
 Comparing sympathy with perception brings out how it's all too easy to overlook viable options. I will highlight how much recent work tacitly rules out 'direct' accounts of sympathy--accounts that view sympathising as feeling the actual feelings of others.
