@@ -76,7 +76,7 @@ Consider an example. Hisham is in panic because he's being chased by a wild dog.
 Applying the two earlier distinctions from philosophy of perception can help clarify Zaynab's sympathetic response. Is her awareness mediated or not? Does it depend on the actual occurrence of what she feels or not? Answers to these questions carve out four general theories of sympathy. 
 
 ## Diagnosis
-Here we have the four most general theories of sympathy. We have theories that maintain that sympathising with another person's feeling is immediate, and theories that posit some mediator phenomenon. And we have theories that maintain that sympathising with another involves a merely intentional mode of awareness, and theories that deny this. Laying out the possibilities in this way allows us to make some observations.
+Here are the options: either sympathising with another person's feeling is immediate, or there is some mediator. And either sympathising with another involves a merely intentional mode of awareness, or it does not. These systematic options invite some observations.
 
 \vspace{1cm}
 
