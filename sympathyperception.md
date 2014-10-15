@@ -43,11 +43,11 @@ Controversy besieges both these questions. But at least the basic distinctions a
     
 ### Mediate and immediate perception
 
-First, mediate and immediate perception. Think of a painted portrait of your cousin. Your visual awareness of the portrait enables perceptual access to a person that, at least from where you're now, isn't immediately visible. In this way, the portrait functions as a _mediator_ in your perception. It enables you to see a relative, even though they are not  around.
+First, mediate and immediate perception. Think of a painted portrait of your cousin. Your awareness of the portrait enables you to see a person who isn't immediately visible in your surroundings. The portrait functions as a _mediator_ in your perception. It enables you to see a relative, even though they are not around.
 
-Ordinary seeing doesn't involve awareness of paintings. But many authors have suggested that it involves awareness of some other kind of mediator. Many think Hume claims that seeing a suspension bridge is a visual awareness of a subjective, private complex of impressions that enables perceptual access to a bridge that lies beyond it.
+Ordinary seeing doesn't involve awareness of paintings. But many have suggested that it involves awareness of another kind of mediator. Hume, for one, claims that seeing a suspension bridge is a visual awareness of a private complex of impressions that enables you to see a bridge.
 
-So if we ask what the immediate object of visual awareness in perception is, we open up the issue of potential perceptual mediation. Is our perception of the world mediated or not? 
+When asking about the immediate object of visual awareness in perception, we run into the issue of perceptual mediation. Is our perception of the world mediated, or not? 
 
 ### Dependent and independent perception
 
