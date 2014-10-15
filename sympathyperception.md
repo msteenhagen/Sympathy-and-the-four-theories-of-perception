@@ -55,7 +55,7 @@ Second, dependent and independent perception. Is our awareness dependent on its 
 
 ## The four theories of perception 
 
-Given these distinctions, we end up with four different ways of thinking about what perception involves. I'll continue focusing on vision. 
+These distinctions give us four different ways of thinking about what perception involves. I'll continue focusing on vision. 
 
 \vspace{1cm}
 
@@ -64,7 +64,7 @@ VISION | Dependent | Independent
 Immediate | I. Naïve realist | II. Intentionalism
 Mediate | III. Sense-datum | IV. ?
 
-Naïve realism echoes common sense. It's the view that we are immediately aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing out there. An intentionalist agrees we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object is present or exists. The third view is best known through its defence by sense-datum theories, popular until the 1950s. Contrary to naïve realism and intentionalism, it maintains that in perception we're aware of a mediator or proxy that relays information about the objects in our environment we report to see. The remaining option is puzzling. This view concurs with sense-datum theory that perception requires mediators, but it claims our awareness of them may occur regardless of their existence. This is puzzling because it is unclear what motivates this specific combination of an intentionalist and a mediator view of vision.  
+Naïve realism echoes common sense. It's the view that we are immediately aware of what we report to perceive, and that such awareness cannot occur if there's in fact nothing there. An intentionalist agrees we're aware of what we report to perceive, but maintains that this awareness may occur regardless of whether its object exists or not. The third view is best known through its defence by sense-datum theories, popular until the 1950s. Contrary to naïve realism and intentionalism, sense-datum theory maintains that perception is awareness of a mediator or proxy that relays information about the objects in our environment we report to see. The fourth option is puzzling. It holds that perception requires mediators, but claims that our awareness of them may occur regardless of their existence. It is unclear what could motivate this view. Still, it would just be too quick to dismiss it without argument. 
 
 # The possibilities of sympathy
 
