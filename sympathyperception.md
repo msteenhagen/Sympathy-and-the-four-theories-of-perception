@@ -99,17 +99,17 @@ The disappearance of these positions from the discussion is a recent one. Stoic 
 
 ### Why this oversight?
 
-Why is it that the idea of---quite literally---feeling what another feels, as Whitehead seems to suggest, sounds so odd to many philosophers or psychologists? I think this is primarily because it contradicts a 'modern' intuition about psychology.   
+Why does the idea of feeling what another feels sounds so odd to many contemporary ears? I suggest that it contradicts a 'modern' intuition about psychology.   
 
-It is a commonplace that feelings are essentially subjective, private states of mind, only accessible to the person in which they originate. Much the same holds for mental states more generally, at least in so far they involve affect or emotion. Yet, should we accept this? I want to suggest that the intuition is in conflict with the very phenomenon that led Hume and others to hold onto the ancient theory of sympathy.
+It is a commonplace that feelings are essentially subjective, private states of mind, only accessible to the person in whom they originate. This holds for mental states generally, especially where they involve affect or emotion. Should we accept this? I suggest that this intuition conflicts with the phenomenon that led Hume and others to revive the ancient theory of sympathy.
 
-In the _Treatise_, Hume struggles when he admits the manifestly social form human feeling _can_ take. As he writes, 
+In the _Treatise_, Hume struggles to admit the manifestly social form that human feeling _can_ take. As he writes, 
 
 > No quality of human nature is more remarkable, both in itself and in its consequences, than that propensity we have to sympathize with others, and to receive by communication their inclinations and sentiments, however different from, or even contrary to our own. (_Treatise_, §XI)
 
-Hume's subsequent _theory_ of sympathy tries to harmonise such sympathetic responses with his general assumption that our consciousness strictly does not reach beyond the affections of our own mind. But just as most philosophers of perception have come to reject Hume's 'mediate' theory of sense impressions as the only possible account of our visual experience of our surroundings, perhaps there is reason to shun the narrowness of Hume's own theory of sympathy---a theory that still lies at the root of our own discussions.
+Hume's tries to harmonise such sympathetic responses with his general assumption that our consciousness strictly does not reach beyond the affections of our own mind. Hume's theory of sympathy lies at the root of our own discussions. But just as most philosophers of perception have come to reject Hume's 'mediate' theory of sense impressions, perhaps we should shun the narrowness of Hume's theory of sympathy too?
 
-This at least reveals a tension. On the one hand, we still feel the pull of those everyday cases in which the suffering or rapture of others is communicated to us in an affective way. On the other hand, our tradition of psychological theorising does not admit of feeling to 'travel' or 'spread out' beyond the individual. But then, we should ask, what makes us so confident that we can't share feeling? I suggest we at least aspire to move beyond our comfort zone, and comb through our background assumptions about feelings and other minds, instead of assuming that the eighteenth century settled the matter for once and for all.
+This reveals a tension. On the one hand, we feel the pull of everyday cases in which the suffering of others is communicated to us affectively. On the other hand, our psychological theorising does not admit feeling to 'travel' beyond the individual. But what makes us so confident that we can't share feeling? Let's move beyond our comfort zone and assess our assumptions about feelings and other minds. The eighteenth century needn't settle things once and for all.
 
 # Ethics of sympathy
 
