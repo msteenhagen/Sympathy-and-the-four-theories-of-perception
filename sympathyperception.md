@@ -104,7 +104,7 @@ In the _Treatise_, Hume struggles to admit the manifestly social form that human
 
 > No quality of human nature is more remarkable, both in itself and in its consequences, than that propensity we have to sympathize with others, and to receive by communication their inclinations and sentiments, however different from, or even contrary to our own. (_Treatise_, §XI)
 
-Hume's tries to harmonise such sympathetic responses with his general assumption that our consciousness strictly does not reach beyond the affections of our own mind. Hume's theory of sympathy lies at the root of our own discussions. But just as most philosophers of perception have come to reject Hume's 'mediate' theory of sense impressions, perhaps we should shun the narrowness of Hume's theory of sympathy too?
+As I read him, Hume tries to harmonise such sympathetic responses with his general assumption that our consciousness strictly does not reach beyond the affections of our own mind. Hume's theory of sympathy lies at the root of our own discussions. But just as most philosophers of perception have come to reject Hume's 'mediate' theory of sense impressions, perhaps we should shun the narrowness of Hume's theory of sympathy too?
 
 This reveals a tension. On the one hand, we feel the pull of everyday cases in which the suffering of others is communicated to us affectively. On the other hand, our psychological theorising does not admit feeling to 'travel' beyond the individual. But what makes us so confident that we can't share feeling? Let's move beyond our comfort zone and assess our assumptions about feelings and other minds. The eighteenth century needn't settle things once and for all.
 
